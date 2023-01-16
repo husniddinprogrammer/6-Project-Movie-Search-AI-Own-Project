@@ -1,1 +1,1 @@
-"# 6-Project-Movie-Search-AI-Own-Project" 
+https://t.me/cheksizkino_bot is a bot that searches for Movies and Series.Additional: There are many functions. For example: Subscribe to series and send a new message when a new episode is released.Telegram Bot(Java, Spring Boot, Spring Security,JWT, JDBC, JPA, Maven, Lombok, PostgreSQL,Rest API).
